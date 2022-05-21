@@ -39,6 +39,7 @@ export default function App() {
       <Header />
       <Search setTerm={setTerm} />
       <Categories categories={commonCategories} setTerm={setTerm} term={term} />
+      <Restaurants />
       <StatusBar />
     </View>
   );
