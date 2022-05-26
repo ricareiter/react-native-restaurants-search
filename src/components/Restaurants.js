@@ -1,4 +1,5 @@
 import { View, Text, Stylesheet } from "react-native";
+import yelp from "../api/yelp";
 
 export default function Restaurants() {
   return (
