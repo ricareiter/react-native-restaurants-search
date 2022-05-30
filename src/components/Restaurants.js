@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   },
   header: {
     fontWeight: "bold",
-    fontSize: 20,
+    fontSize: 19,
     paddingBottom: 10,
     height: 100,
   },
